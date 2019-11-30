@@ -1,0 +1,1 @@
+/* WebService.js */ const Cookie={}; Cookie.makeCookie=function(value, day){
